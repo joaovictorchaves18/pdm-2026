@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "Currículo - João Victor Chaves",
+    "slug": "pdm-2026-curriculo-joao-chaves",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/perfil.jpg",
+    "scheme": "curriculojoaochaves",
+    "userInterfaceStyle": "automatic",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0B0F19",
+        "foregroundImage": "./assets/images/perfil.jpg"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "output": "static",
+      "favicon": "./assets/images/perfil.jpg"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    }
+  }
+}
