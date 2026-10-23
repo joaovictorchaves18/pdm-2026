@@ -3,6 +3,7 @@
     "name": "Currículo - João Victor Chaves",
     "slug": "pdm-2026-curriculo-joao-chaves",
     "version": "1.0.0",
+    "owner": "joaochaves26s-team",
     "orientation": "portrait",
     "icon": "./assets/images/perfil.jpg",
     "scheme": "curriculojoaochaves",
@@ -27,8 +28,17 @@
     "experiments": {
       "typedRoutes": true
     },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "1634f0d2-762c-46e2-a525-802122ce7ab9"
+      }
+    },
     "runtimeVersion": {
       "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/1634f0d2-762c-46e2-a525-802122ce7ab9"
     }
   }
 }
