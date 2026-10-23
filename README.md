@@ -4,6 +4,15 @@ Aplicativo mobile multiplataforma desenvolvido com **React Native + Expo (SDK 57
 
 ---
 
+## 🔗 Links Oficiais de Entrega
+
+- **Repositório no GitHub:** [https://github.com/joaovictorchaves18/pdm-2026](https://github.com/joaovictorchaves18/pdm-2026)
+- **App Publicado no Expo (EAS Update Dashboard + QR Code):** [https://expo.dev/accounts/joaochaves26s-team/projects/pdm-2026-curriculo-joao-chaves/updates/6a237c9b-37ca-423e-b324-e2bad5c48cd3](https://expo.dev/accounts/joaochaves26s-team/projects/pdm-2026-curriculo-joao-chaves/updates/6a237c9b-37ca-423e-b324-e2bad5c48cd3)
+- **Página Direta de Preview com QR Code para o Expo Go:** [Abrir QR Code do App no Expo Go](https://expo.dev/preview/update?message=feat%3A+App+Curriculo+e+Portfolio+Joao+Victor+Chaves&updateRuntimeVersion=1.0.0&slug=pdm-2026-curriculo-joao-chaves&projectId=1634f0d2-762c-46e2-a525-802122ce7ab9&group=6a237c9b-37ca-423e-b324-e2bad5c48cd3)
+- **Back-end AOS (API RESTful + Neon PostgreSQL):** [https://curriculo-api-joao.vercel.app/pessoas](https://curriculo-api-joao.vercel.app/pessoas)
+
+---
+
 ## 👨‍💻 Autor
 
 - **Nome:** João Victor de Oliveira Chaves (20 anos)
