@@ -1,6 +1,6 @@
 # 📱 Aplicativo de Currículo & Portfólio — João Victor de Oliveira Chaves
 
-Aplicativo mobile multiplataforma desenvolvido com **React Native + Expo (SDK 57)** e **Expo Router** para a disciplina de **Programação para Dispositivos Móveis (PDM - UNICAP)**.
+Aplicativo mobile multiplataforma desenvolvido com **React Native + Expo (SDK 58)** e **Expo Router** para a disciplina de **Programação para Dispositivos Móveis (PDM - UNICAP)**.
 
 ---
 
@@ -69,8 +69,8 @@ O aplicativo está integrado ao Back-end próprio desenvolvido na disciplina de 
 
 ## 🛠️ Tecnologias e Módulos Utilizados
 
-- **Expo SDK 57** & **React Native 0.86** (`react: 19.2.3`)
-- **Expo Router** (`~57.0.23`) — Roteamento baseado em arquivos (`app/`)
+- **Expo SDK 58** & **React Native 0.88** (`react: 19.3.0`)
+- **Expo Router** (`~58.0.25`) — Roteamento baseado em arquivos (`app/`)
 - **React Native Paper** (`^5.15.3`) — Componentes visuais Material Design 3 e temas customizados
 - **TanStack React Query** (`^5.102.8`) & **Axios** (`^1.20.0`) — Consumo de API REST, cache e mutações
 - **Zustand** (`^5.0.15`) & **AsyncStorage** (`2.2.0`) — Estado global com persistência nativa

@@ -5,12 +5,12 @@ import { MaterialCommunityIcons } from "@expo/vector-icons";
 
 const MODULOS_TECNOLOGIAS = [
   {
-    nome: "React Native 0.86 & Expo SDK 57",
+    nome: "React Native 0.88 & Expo SDK 58",
     papel: "Framework Mobile Principal",
     descricao:
       "Base do aplicativo multiplataforma (Android / iOS) com suporte a OTA Updates (EAS Update) e execução nativa no Expo Go.",
     icone: "cellphone-cog",
-    tags: ["Expo SDK 57", "React 19", "React Native"],
+    tags: ["Expo SDK 58", "React 19", "React Native"],
   },
   {
     nome: "Expo Router (File-based Routing)",
